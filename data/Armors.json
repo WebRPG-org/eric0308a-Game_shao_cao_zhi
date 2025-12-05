@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"atypeId":0,"description":"蛋白質，嘎崩脆，雞肉味。","etypeId":2,"traits":[],"iconIndex":272,"name":"蚯蚓","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":2,"atypeId":0,"description":"很好吃，不過跟蟑螂好像是同類的樣子。","etypeId":2,"traits":[],"iconIndex":272,"name":"蝦子","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":3,"atypeId":0,"description":"魚群為之瘋狂神奇誘餌，但記得要快點收竿，不然單純只是被這群魚當自助餐。","etypeId":2,"traits":[],"iconIndex":272,"name":"糠餅","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":4,"atypeId":0,"description":"常見的魚餌之一，蛋白質比蚯蚓少一點。","etypeId":2,"traits":[],"iconIndex":272,"name":"紅蟲","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":5,"atypeId":0,"description":"看起來、聞起來很像葡萄的蟲，但牠還是蟲，不到萬不得已還是不要吃牠。","etypeId":2,"traits":[],"iconIndex":272,"name":"葡萄蟲","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":6,"atypeId":0,"description":"一種很盧的魚，適合煮湯。\n給學姊時，這魚在學姊的評價是2分。","etypeId":2,"traits":[],"iconIndex":260,"name":"鱸魚","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":7,"atypeId":0,"description":"俗稱鯛民，雖然很難伺候，但很好吃。\n給學姊時，這魚在學姊的評價是5分。","etypeId":2,"traits":[],"iconIndex":260,"name":"鯛魚","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":8,"atypeId":0,"description":"比起拿去吃，直接養殖起來，可以發大財。\n給學姊時，這魚在學姊的評價是8分。","etypeId":2,"traits":[],"iconIndex":260,"name":"石斑魚","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":9,"atypeId":0,"description":"雖然跟蜻蜓長得一點都不像，但油炸起來很好吃。\n釣起來難度很高，給學姊時，這魚在學姊的評價是10分。 ","etypeId":2,"traits":[],"iconIndex":260,"name":"豆娘魚 ","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":10,"atypeId":0,"description":"阿阿阿阿，老是把我的餌吃掉！！看我怎麼煮了你！\n釣起來難度非常高，給學姊時，這魚在學姊的評價是12分。","etypeId":2,"traits":[],"iconIndex":260,"name":"幽面","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":11,"atypeId":0,"description":"蛋白質，嘎崩脆，雞肉味。\n收集五個蚯蚓碎屑可以自動混合成蚯蚓","etypeId":2,"traits":[],"iconIndex":272,"name":"蚯蚓碎屑","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":12,"atypeId":0,"description":"很好吃，不過跟蟑螂好像是同類的樣子。\n收集五個蝦子碎屑可以自動混合成蝦子。","etypeId":2,"traits":[],"iconIndex":272,"name":"蝦子碎屑","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":13,"atypeId":0,"description":"魚群為之瘋狂神奇誘餌，但記得要快點收竿，不然單純只是被這群魚當自助餐。\n收集五個糠餅碎屑可以自動混合成糠餅。","etypeId":2,"traits":[],"iconIndex":272,"name":"糠餅碎屑","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":14,"atypeId":0,"description":"常見的魚餌之一，蛋白質比蚯蚓少一點。\n收集五個紅蟲碎屑可以自動混合成紅蟲。","etypeId":2,"traits":[],"iconIndex":272,"name":"紅蟲碎屑","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":15,"atypeId":0,"description":"看起來、聞起來很像葡萄的蟲，但牠還是蟲，不到萬不得已還是不要吃牠。\n收集五個葡萄蟲碎屑可以自動混合成葡萄。","etypeId":2,"traits":[],"iconIndex":272,"name":"葡萄蟲碎屑","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]

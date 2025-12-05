@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"animationId":0,"description":"披上去之後，看起來像個可疑人物，感覺會被警察帶走，但是可以來無影去無蹤。","etypeId":1,"traits":[],"iconIndex":138,"name":"梅傑德的披風","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":22,"dataId":0,"value":0.2}],"iconIndex":0,"name":"風嵐劍","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":3,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"逆刃刀","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":4,"animationId":2,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"天生武器","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":5,"animationId":6,"description":"","etypeId":1,"traits":[{"code":22,"dataId":0,"value":0.2}],"iconIndex":0,"name":"風嵐劍+99","note":"","params":[5000,0,100,100,0,0,0,0],"price":0,"wtypeId":1},
+{"id":6,"animationId":2,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"測試用","note":"","params":[0,0,500,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":7,"animationId":2,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"魔水晶","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":3},
+{"id":8,"animationId":6,"description":"","etypeId":1,"traits":[{"code":22,"dataId":0,"value":0.2},{"code":22,"dataId":9,"value":0.2}],"iconIndex":0,"name":"風嵐劍(強化)","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":9,"animationId":2,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":22,"dataId":8,"value":0.1}],"iconIndex":0,"name":"魔水晶(強化)","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":3},
+{"id":10,"animationId":2,"description":"","etypeId":1,"traits":[{"code":22,"dataId":0,"value":0.1},{"code":22,"dataId":7,"value":0.1}],"iconIndex":0,"name":"天生武器(強化)","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":2}
+]

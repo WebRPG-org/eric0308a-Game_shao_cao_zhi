@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"characters1_1","classId":1,"equips":[2],"faceIndex":0,"faceName":"","traits":[],"initialLevel":20,"maxLevel":99,"name":"阿蒙","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"characters2_1","classId":2,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":50,"maxLevel":99,"name":"阿斯塔蒂","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"characters3_1","classId":3,"equips":[3],"faceIndex":0,"faceName":"","traits":[{"code":51,"dataId":1,"value":1}],"initialLevel":25,"maxLevel":99,"name":"愛伊","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"characters4_1","classId":6,"equips":[7],"faceIndex":0,"faceName":"","traits":[{"code":51,"dataId":3,"value":1},{"code":43,"dataId":21,"value":1},{"code":43,"dataId":24,"value":1}],"initialLevel":20,"maxLevel":99,"name":"奈芙蒂斯","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"characters5_1","classId":4,"equips":[4],"faceIndex":0,"faceName":"","traits":[],"initialLevel":20,"maxLevel":99,"name":"哈索爾","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"Medjed","classId":5,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":99,"maxLevel":99,"name":"梅傑德","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"阿奴比斯","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"characters2_1","classId":2,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":50,"maxLevel":99,"name":"褐色肌膚的少女","nickname":"","note":"","profile":""}
+]
